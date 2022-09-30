@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main{
+
+    /* height: 100%; */
+    width: 90%;
+    /* background-color: ; */
+    display: grid;
+    border: 3px solid black;
+    margin: 50px auto;
+    grid-template-rows: 150px 150px 150px;
+    grid-template-columns: 150px 150px 150px;
+    grid-gap:10px;
+     justify-content: center;
+
+    /* align-items: center; */
+
+          
+    
+}
+
+.div1{
+    background-color: royalblue;
+}
+
+.div2{
+    background-color: red;
+}
+
+.div3{
+    background-color: orange;
+}
+
+.div4{
+    background-color: aliceblue;
+}
+
+.div5{
+    background-color: green;
+}
+
+.div6{
+    background-color: aqua;
+    
+}
+
